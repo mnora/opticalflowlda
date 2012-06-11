@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="cokus.c" open="1" top="0" tabpos="4">
+		<Cursor position="1999" topLine="117" />
+	</File>
+	<File name="lda-alpha.c" open="1" top="0" tabpos="5">
+		<Cursor position="1628" topLine="38" />
+	</File>
+	<File name="lda-data.c" open="1" top="0" tabpos="6">
+		<Cursor position="2789" topLine="55" />
+	</File>
+	<File name="lda-data.h" open="1" top="0" tabpos="11">
+		<Cursor position="212" topLine="0" />
+	</File>
+	<File name="lda-estimate.c" open="1" top="1" tabpos="1">
+		<Cursor position="3387" topLine="122" />
+	</File>
+	<File name="lda-estimate.h" open="1" top="0" tabpos="7">
+		<Cursor position="425" topLine="12" />
+	</File>
+	<File name="lda-inference.c" open="1" top="0" tabpos="2">
+		<Cursor position="2644" topLine="55" />
+	</File>
+	<File name="lda-inference.h" open="1" top="0" tabpos="10">
+		<Cursor position="244" topLine="0" />
+	</File>
+	<File name="lda-model.c" open="1" top="0" tabpos="3">
+		<Cursor position="5964" topLine="215" />
+	</File>
+	<File name="lda-model.h" open="1" top="0" tabpos="8">
+		<Cursor position="280" topLine="0" />
+	</File>
+	<File name="lda.h" open="1" top="0" tabpos="9">
+		<Cursor position="1129" topLine="30" />
+	</File>
+	<File name="utils.c" open="0" top="0" tabpos="2">
+		<Cursor position="1880" topLine="94" />
+	</File>
+</CodeBlocks_layout_file>

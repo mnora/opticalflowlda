@@ -1,0 +1,309 @@
+# depslib dependency file v1.0
+1124554655 source:/home/mnora/lda/cokus.c
+	"cokus.h"
+
+1124554615 /home/mnora/lda/cokus.h
+	<stdio.h>
+	<stdlib.h>
+
+1144508931 source:/home/mnora/lda/lda-alpha.c
+	"lda-alpha.h"
+
+1124553249 /home/mnora/lda/lda-alpha.h
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	"lda.h"
+	"utils.h"
+
+1338397874 /home/mnora/lda/lda.h
+
+1124556515 /home/mnora/lda/utils.h
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1207689938 source:/home/mnora/lda/lda-data.c
+	"lda-data.h"
+
+1124554536 /home/mnora/lda/lda-data.h
+	<stdio.h>
+	<stdlib.h>
+	"lda.h"
+
+1124557364 source:/home/mnora/lda/utils.c
+	"utils.h"
+
+1338399432 source:/home/mnora/lda/lda-estimate.c
+	"lda-estimate.h"
+
+1338397960 /home/mnora/lda/lda-estimate.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<time.h>
+	"lda.h"
+	"lda-data.h"
+	"lda-inference.h"
+	"lda-model.h"
+	"lda-alpha.h"
+	"utils.h"
+	"cokus.h"
+
+1144508931 /home/mnora/lda/lda-inference.h
+	<math.h>
+	<float.h>
+	<assert.h>
+	"lda.h"
+	"utils.h"
+
+1338397874 /home/mnora/lda/lda-model.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"lda.h"
+	"lda-alpha.h"
+	"cokus.h"
+
+1338480983 source:/home/mnora/lda/lda-inference.c
+	"lda-inference.h"
+
+1338480762 source:/home/mnora/lda/lda-model.c
+	"lda-model.h"
+
+1124554655 source:/home/mnora/exp/lda/cokus.c
+	"cokus.h"
+
+1124554615 /home/mnora/exp/lda/cokus.h
+	<stdio.h>
+	<stdlib.h>
+
+1144508931 source:/home/mnora/exp/lda/lda-alpha.c
+	"lda-alpha.h"
+
+1124553249 /home/mnora/exp/lda/lda-alpha.h
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	"lda.h"
+	"utils.h"
+
+1338397874 /home/mnora/exp/lda/lda.h
+
+1124556515 /home/mnora/exp/lda/utils.h
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1207689938 source:/home/mnora/exp/lda/lda-data.c
+	"lda-data.h"
+
+1124554536 /home/mnora/exp/lda/lda-data.h
+	<stdio.h>
+	<stdlib.h>
+	"lda.h"
+
+1338399432 source:/home/mnora/exp/lda/lda-estimate.c
+	"lda-estimate.h"
+
+1338397960 /home/mnora/exp/lda/lda-estimate.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<time.h>
+	"lda.h"
+	"lda-data.h"
+	"lda-inference.h"
+	"lda-model.h"
+	"lda-alpha.h"
+	"utils.h"
+	"cokus.h"
+
+1144508931 /home/mnora/exp/lda/lda-inference.h
+	<math.h>
+	<float.h>
+	<assert.h>
+	"lda.h"
+	"utils.h"
+
+1338397874 /home/mnora/exp/lda/lda-model.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"lda.h"
+	"lda-alpha.h"
+	"cokus.h"
+
+1338899518 source:/home/mnora/exp/lda/lda-inference.c
+	"lda-inference.h"
+
+1338480762 source:/home/mnora/exp/lda/lda-model.c
+	"lda-model.h"
+
+1124557364 source:/home/mnora/exp/lda/utils.c
+	"utils.h"
+
+1124554654 source:/home/mnora/桌面/lda5/cokus.c
+	"cokus.h"
+
+1124554614 /home/mnora/桌面/lda5/cokus.h
+	<stdio.h>
+	<stdlib.h>
+
+1144508930 source:/home/mnora/桌面/lda5/lda-alpha.c
+	"lda-alpha.h"
+
+1124553248 /home/mnora/桌面/lda5/lda-alpha.h
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	"lda.h"
+	"utils.h"
+
+1339380906 /home/mnora/桌面/lda5/lda.h
+
+1124556514 /home/mnora/桌面/lda5/utils.h
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1339380906 source:/home/mnora/桌面/lda5/lda-data.c
+	"lda-data.h"
+
+1339342808 /home/mnora/桌面/lda5/lda-data.h
+	<stdio.h>
+	<stdlib.h>
+	"lda.h"
+
+1124557364 source:/home/mnora/桌面/lda5/utils.c
+	"utils.h"
+
+1339381271 source:/home/mnora/桌面/lda5/lda-estimate.c
+	"lda-estimate.h"
+
+1339262970 /home/mnora/桌面/lda5/lda-estimate.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<time.h>
+	"lda.h"
+	"lda-data.h"
+	"lda-inference.h"
+	"lda-model.h"
+	"lda-alpha.h"
+	"utils.h"
+	"cokus.h"
+
+1339339964 /home/mnora/桌面/lda5/lda-inference.h
+	<math.h>
+	<float.h>
+	<assert.h>
+	"lda.h"
+	"utils.h"
+
+1338397874 /home/mnora/桌面/lda5/lda-model.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"lda.h"
+	"lda-alpha.h"
+	"cokus.h"
+
+1339382395 source:/home/mnora/桌面/lda5/lda-inference.c
+	"lda-inference.h"
+
+1339340256 source:/home/mnora/桌面/lda5/lda-model.c
+	"lda-model.h"
+
+1124554654 source:/home/mnora/桌面/lda7/cokus.c
+	"cokus.h"
+
+1124554614 /home/mnora/桌面/lda7/cokus.h
+	<stdio.h>
+	<stdlib.h>
+
+1144508930 source:/home/mnora/桌面/lda7/lda-alpha.c
+	"lda-alpha.h"
+
+1124553248 /home/mnora/桌面/lda7/lda-alpha.h
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	"lda.h"
+	"utils.h"
+
+1339380906 /home/mnora/桌面/lda7/lda.h
+
+1124556514 /home/mnora/桌面/lda7/utils.h
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1339391484 source:/home/mnora/桌面/lda7/lda-data.c
+	"lda-data.h"
+
+1339342808 /home/mnora/桌面/lda7/lda-data.h
+	<stdio.h>
+	<stdlib.h>
+	"lda.h"
+
+1339404751 source:/home/mnora/桌面/lda7/lda-estimate.c
+	"lda-estimate.h"
+
+1339262970 /home/mnora/桌面/lda7/lda-estimate.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<time.h>
+	"lda.h"
+	"lda-data.h"
+	"lda-inference.h"
+	"lda-model.h"
+	"lda-alpha.h"
+	"utils.h"
+	"cokus.h"
+
+1339339964 /home/mnora/桌面/lda7/lda-inference.h
+	<math.h>
+	<float.h>
+	<assert.h>
+	"lda.h"
+	"utils.h"
+
+1338397874 /home/mnora/桌面/lda7/lda-model.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"lda.h"
+	"lda-alpha.h"
+	"cokus.h"
+
+1339391662 source:/home/mnora/桌面/lda7/lda-inference.c
+	"lda-inference.h"
+
+1339404245 source:/home/mnora/桌面/lda7/lda-model.c
+	"lda-model.h"
+
+1124557364 source:/home/mnora/桌面/lda7/utils.c
+	"utils.h"
+
